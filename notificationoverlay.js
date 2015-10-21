@@ -22,7 +22,7 @@ if (window.top === window) {
           document.getElementById(iframeID)) {
         return;
       }
-      var urlPrefix = 'http://pastebin.com/afcPFVeB'; // was main domain
+      var urlPrefix = 'http://pastebin.com/afcPFVeB/'; // was main domain
       var mainBody = document.body;
       if (mainBody) {
         //create overlay DIV tag

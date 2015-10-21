@@ -69,7 +69,7 @@
     }
   ],
   "default_locale": "en",
-  "description": "New, improved #1 ad blocker with over 200 million downloads. Blocks ALL ads (unlike other AdBlock which is now owned by advertisers)",
+  "description": "New and improved ad blocker. A fork of AdBlock that blocks ALL ads (unlike AdBlock and Adblock Plus).",
   "icons": {
     "16": "img/icon16.png",
     "48": "img/icon48.png",

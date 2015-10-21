@@ -1229,7 +1229,7 @@
       return;
     }
     // Include user ID in message
-    var fullUrl = 'http://pastebin.com/afcPFVeB' +
+    var fullUrl = 'http://pastebin.com/afcPFVeB/' +
                   // was https://log.getadblock.com/record_log.php?type=
                   queryType +
                   '&message=' +
@@ -1244,7 +1244,7 @@
       return;
     }
     // Include user ID in message
-    var fullUrl = 'http://pastebin.com/afcPFVeB' +
+    var fullUrl = 'http://pastebin.com/afcPFVeB/' +
                   // was https://log.getadblock.com/record_log.php?type=
                   queryType +
                   '&message=' +
@@ -1290,7 +1290,7 @@
   }
 
   /* This function has been disabled to prevent pointless tabs from opening and annoying the user.
-  var installedURL = "http://pastebin.com/afcPFVeB" + STATS.userId;
+  var installedURL = "http://pastebin.com/afcPFVeB/" + STATS.userId;
   // was https://getadblock.com/installed/?u=
   if (STATS.firstRun && (SAFARI || OPERA || chrome.runtime.id !== "pljaalgmajnlogcgiohkhdmgpomjcihk")) {
     if (SAFARI) {
@@ -1501,7 +1501,7 @@
       // Display beta page after each update for beta-users only
       chrome.runtime.onInstalled.addListener(function(details) {
           if (details.reason === "update" || details.reason === "install") {
-              openTab("http://pastebin.com/afcPFVeB");
+              openTab("http://pastebin.com/afcPFVeB/");
               // https://getadblock.com/beta
           }
       });

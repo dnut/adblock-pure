@@ -1,6 +1,7 @@
 ## AdBlock Pure ##
 
 1.0.0
+ - Fork of AdBlock 2.40.1.
  - Updated manifest.json to describe new AdBlock Pure fork.
  Various changes made to improve end user privacy and break ties to corrupted AdBlock project:
  - Disabled datacollection.js, stats.js, survey.js, options/support.html, options/support.js, checkupdates.js. These will be removed in future releases if there prove to be no problems associated with them being disabled.
