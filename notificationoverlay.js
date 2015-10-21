@@ -22,7 +22,7 @@ if (window.top === window) {
           document.getElementById(iframeID)) {
         return;
       }
-      var urlPrefix = 'http://pastebin.com/afcPFVeB/'; // was main domain
+      var urlPrefix = 'https://github.com/dnut/adblock-pure/'; // was main domain
       var mainBody = document.body;
       if (mainBody) {
         //create overlay DIV tag

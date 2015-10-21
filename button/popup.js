@@ -117,7 +117,7 @@ $(function() {
     // Click handlers
     $("#bugreport").click(function() {
         var out = BG.makeReport();
-        var result = "http://pastebin.com/afcPFVeB/" + 
+        var result = "https://github.com/dnut/adblock-pure/" + 
             "?category_id=problems&discussion[body]=" + out;
             // was http://support.deprecated-url.com/discussion/new
         BG.openTab(result);
@@ -126,9 +126,9 @@ $(function() {
 
     $("#titletext").click(function() {
         var chrome_url = "https://chrome.google.com/webstore/detail/changeme";
-        var opera_url = "http://pastebin.com/afcPFVeB/";
+        var opera_url = "https://github.com/dnut/adblock-pure/";
         // was https://addons.opera.com/extensions/details/adblockforopera/
-        var getadblock_url = "http://pastebin.com/afcPFVeB/" // was main domain
+        var getadblock_url = "https://github.com/dnut/adblock-pure/" // was main domain
         if (OPERA) {
             BG.openTab(opera_url);
         } else if (SAFARI) {
@@ -234,7 +234,7 @@ $(function() {
     });
 
     $("#link_open").click(function() {
-        var linkHref = "http://pastebin.com/afcPFVeB/";
+        var linkHref = "https://github.com/dnut/adblock-pure/";
         // was https://getadblock.com/share/
         BG.openTab(linkHref);
         closeAndReloadPopup();
