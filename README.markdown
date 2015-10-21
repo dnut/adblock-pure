@@ -2,4 +2,4 @@
 
 AdBlock Pure is a fork of the last version of AdBlock that didn't permit unacceptable ads to be displayed. This means that AdBlock Pure blocks all ads, unlike AdBlock. A few modifications were made to improve the privacy practices (no data collection, no links to their website), and rename the extension. Otherwise it remains virtually identical. See CHANGELOG.txt for more details.
 
-AdBlock Pure is licensed under GPL3 because it is a fork of the original AdBlock which is also licensed under GPL3. The source code for AdBlock Pure is available on GitHub: https://github.com/dnut/AdBlock-Pure/. The source code that AdBlock Pure was derived from is available at AdBlock's website: http://code.getadblock.com/releases/AdBlock-v2.40.1.zip
+AdBlock Pure is licensed under GPL3 because it is a fork of the original AdBlock which is also licensed under GPL3. The source code that AdBlock Pure was derived from is available at AdBlock's website: http://code.getadblock.com/releases/AdBlock-v2.40.1.zip
