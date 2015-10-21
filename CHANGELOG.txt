@@ -7,7 +7,7 @@
  - Disabled datacollection.js, stats.js, survey.js, options/support.html, options/support.js, checkupdates.js. These will be removed in future releases if there prove to be no problems associated with them being disabled.
  - Disabled data collection related stuff from options/general.html and background.js.
  - Disabled annoying "installed" and "uninstalled" pages that opens when you install/uninstall AdBlock (in background.js: openInstalledTab & uninstallURL).
- - Replaced getadblock.com links with http://pastebin.com/afcPFVeB (privacy message) in options/index.js, button/popup.js, background.js, notificationoverlay.js
+ - Replaced getadblock.com links with https://github.com/dnut/adblock-pure/ in options/index.js, button/popup.js, background.js, notificationoverlay.js
  - Disabled the "unblock" script for ads on getadblock.com in filters/adblock custom.txt
  - Disabled inappropriate links from options/index.html, button/popup.html, adreport.html
  - Didn't touch getadblock.com links in pages/adreport.js because supposedly they help with malware detection. Someone should verify that they are actually doing this.
