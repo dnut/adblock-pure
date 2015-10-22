@@ -18,7 +18,7 @@
 
 
 
-## Original Adblock ##
+## Original AdBlock ##
 
 2.40.1:
  - Remove the timestamp query string from the Malware filter list URL
