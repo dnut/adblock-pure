@@ -1,3 +1,15 @@
+In response to:
+"We have reviewed your item and it does not comply with our program policies. Please re-review this section of our policy: Products must not contain false or misleading information in any content, title, icon, description, or screenshots."
+
+"Screenshots" was bolded in the e-mail. AdBlock Pure never had any screenshots, so I don't really understand the problem. I did just recently change the icon and logo though to a logo that I personally designed using GIMP, so I hope that has resolved this issue, since I am no longer using AdBlock's icon and logo.
+
+If there is a problem with this extension again, please notify me of the exact files that are problematic and a brief explanation why each one is a problem.
+
+
+
+...
+
+=== Original Note ===
 I was initially denied because I was considered not to be in compliance with the following portion of the policy. I have made changes to remedy this. Please see my explanation below.
 
 "Don't pretend to be someone else, and don't represent that your app is authorized by or produced by another company or organization if that is not the case. Products or the ads they contain also must not mimic functionality or warnings from a user's operating system or browser. Developers should not divert users or provide links to any other site that mimics Chrome Web Store or passes itself off as Chrome Web Store."
