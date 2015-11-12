@@ -8,7 +8,7 @@ AdBlock Pure is free and open source software, licensed under GPLv3 because it i
 
 ## Installation
 
-AdBlock Pure is not available in the Chrome Web Store because Google claims that it violates a section of their policy which it clearly does not violate. I've been appealing this obvious mistake, but they're taking a pretty firm stance of totally ignoring me and just quoting the same part of the policy over and over, so for now this is the only way to install it:
+AdBlock Pure is not currently available in the Chrome Web Store because due to Google's concern about imitation. I am in the appeal process and it should be resolved shortly. Until then, you may install it manually:
 
 1. Download the zip here
 2. Extract it to a directory
