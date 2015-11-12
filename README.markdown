@@ -12,5 +12,5 @@ AdBlock Pure is not available in the Chrome Web Store because Google claims that
 
 1. Download the zip here
 2. Extract it to a directory
-3. Open Chrome's extensions page: chrome://extensions/
+3. Open Chrome's extensions page: [chrome://extensions/](chrome://extensions/)
 4. Load the directory into that page (either via drag and drop or by clicking the button).
