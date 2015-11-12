@@ -6,4 +6,11 @@ AdBlock Pure is a fork of the last version of AdBlock that didn't permit unaccep
 
 AdBlock Pure is free and open source software, licensed under GPLv3 because it is a fork of the original AdBlock which is also licensed under GPLv3. The source code that AdBlock Pure was derived from is available at AdBlock's website: http://code.getadblock.com/releases/AdBlock-v2.40.1.zip
 
-AdBlock Pure is not available in the Chrome Web Store because Google claims that it violates a section of their policy which it clearly does not violate. If you would like to install AdBlock Pure, you must download the zip here, extract it to a directory, and load that directory into Chrome's extensions page (either via drag and drop or by clicking the button).
+## Installation
+
+AdBlock Pure is not available in the Chrome Web Store because Google claims that it violates a section of their policy which it clearly does not violate. I've been appealing obvious mistake, but they're taking a pretty firm stance of totally ignoring me and just quoting the same part of the policy over and over, so for now this is the only way to install it:
+
+1. Download the zip here
+2. Extract it to a directory
+3. Open Chrome's extensions page: chrome://extensions/
+4. Load the directory into that page (either via drag and drop or by clicking the button).
