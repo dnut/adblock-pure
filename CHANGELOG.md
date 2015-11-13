@@ -4,6 +4,7 @@
 New Features:
  - Create a functional support page, support.html (support.js changed also).
  - Enable update check (not 100% sure if this works, but Chrome does it automatically so it's no big deal).
+ - Added Fanboy Ultimate list.
 
 Bugfixes:
  - Fix web store link in popup.js.

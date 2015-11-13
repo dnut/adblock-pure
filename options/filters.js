@@ -222,7 +222,7 @@ FilterListUtil.sortFilterListArrays = function() {
 //    subs:object - Map for subscription lists taken from the background.
 FilterListUtil.getFilterListType = function(filter_list) {
   var filter_list_type;
-  if (filter_list.id === "adblock_custom" || filter_list.id === "easylist") {
+  if (filter_list.id === "adblock_custom" || filter_list.id === "easylist" || filter_list.id === "ultimate") {
     filter_list_type = "adblock_filter_list";
   } else if (filter_list.id === "easyprivacy" || filter_list.id === "antisocial"
              || filter_list.id === "malware" || filter_list.id === "annoyances"

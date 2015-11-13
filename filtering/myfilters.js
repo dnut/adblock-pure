@@ -698,6 +698,9 @@ MyFilters.prototype._make_subscription_options = function() {
     "turkish": {  // Turkish filters
       url: "http://fanboy.co.nz/fanboy-turkish.txt",
     },
+    "ultimate": { // Fanboy's Ultimate
+      url: "https://www.fanboy.co.nz/r/fanboy-ultimate.txt",
+    },
     "easyprivacy": { // EasyPrivacy
       url: "https://easylist-downloads.adblockplus.org/easyprivacy.txt",
     },

@@ -340,7 +340,7 @@
     "description":"Title of the filter list tab"
   },
   "filterlistlink":{
-    "message":"Don't subscribe to more than you need -- every one slows you down a tiny bit! Credits and more lists can be found <a>here<\/a>.",
+    "message":"Don't subscribe to more than you need -- every one slows you down a tiny bit! Credits and more lists can be found at <a href=\"https:\/\/adblockplus.org\/en\/subscriptions\" target=\"_blank\">ABP's website<\/a> and at the <a href=\"https:\/\/www.fanboy.co.nz\/filters.html\" target=\"_blank\">EasyList & Fanboy website<\/a>.",
     "description":"Explanation of the filter lists"
   },
   "updatenowmessage2":{
@@ -363,8 +363,12 @@
     "message":"Antisocial filter list (removes social media buttons)",
     "description":"Name of the filter list"
   },
+  "filterultimate":{
+    "message":"Fanboy's Ultimate - Block Everything! Combines Easylist + EasyPrivacy + Enhanced Trackers List + Annoyances.",
+    "description":"Name of the filter list"
+  },
   "filterannoyances":{
-    "message":"Fanboy's Annoyances (removes annoyances on the Web)",
+    "message":"Fanboy's Annoyances (removes in-page pop-ups and annoyances) - Do not enable if Ultimate is enabled.",
     "description":"Name of the filter list"
   },
   "filterwarning_removal":{
@@ -376,7 +380,7 @@
     "description":"A filter list"
   },
   "filtereasylist":{
-    "message":"EasyList (recommended)",
+    "message":"EasyList - Use either this OR Fanboy's Ultimate (not both or neither).",
     "description":"A filter list"
   },
   "filterrussian":{
@@ -388,7 +392,7 @@
     "description":"Language names for a filter list"
   },
   "filtereasyprivacy":{
-    "message":"EasyPrivacy (privacy protection)",
+    "message":"EasyPrivacy (privacy protection) - Do not enable if Ultimate is enabled.",
     "description":"A filter list"
   },
   "filtereasylist_plus_indonesian":{
@@ -416,7 +420,7 @@
     "description":"Message at the top of the blacklist options tab"
   },
   "tabcustomizetitle":{
-    "message":"Customize AdBlock",
+    "message":"Customize AdBlock Pure",
     "description":"Title of the customize tab"
   },
   "filterlistsrock":{
@@ -908,12 +912,12 @@
     "description":"Message shown in toolbar button when AdBlock Pure is paused"
   },
   "unpause_adblock":{
-    "message":"Unpause AdBlock",
+    "message":"Unpause AdBlock Pure",
     "description":"Link text to unpause AdBlock, displayed immediately after 'AdBlock Pure is paused'"
   },
   "pause_adblock":{
-    "message":"Pause AdBlock",
-    "description":"Menu entry to pause AdBlock"
+    "message":"Pause AdBlock Pure",
+    "description":"Menu entry to pause AdBlock Pure"
   },
   "undo_last_block":{
     "message":"Undo my blocks on this domain",
@@ -1099,7 +1103,7 @@
   },
   "latest_version":{
     "message":"AdBlock Pure is up-to-date!",
-    "description":"On the Options > Support page, shows when there are no updates available for AdBlock"
+    "description":"On the Options > Support page, shows when there are no updates available for AdBlock Pure"
   },
   "here":{
     "message":"here",
@@ -1107,7 +1111,7 @@
   },
   "update_available":{
     "message":"There's an update for AdBlock! Go $here$ to update. <br> Note: If you want to receive updates automatically, just click on Safari > Preferences > Extensions > Updates <br> and check option 'Install updates automatically'.",
-    "description":"On the Options > Support page, shows when there are updates available for AdBlock",
+    "description":"On the Options > Support page, shows when there are updates available for AdBlock Pure",
     "placeholders":{
       "here":{
         "content":"<a id='here'><\/a>",
