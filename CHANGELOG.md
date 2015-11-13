@@ -1,4 +1,4 @@
-## AdBlock Pure ##
+## AdBlock Pure
 1.0.1
  - Updated icon and logo
 
@@ -20,7 +20,7 @@
 
 
 
-## Original AdBlock ##
+## Original AdBlock
 
 2.40.1:
  - Remove the timestamp query string from the Malware filter list URL
@@ -1013,7 +1013,7 @@ EasyList if you subscribe to an EasyList additional list (famlam)
 
 1.3.0: Initial import.
 
-## Changelog for the Opera version of AdBlock ##
+## Changelog for the Opera version of AdBlock
 
 1.0.8: Include changes from AdBlock for Chrome 2.5.60.
 
