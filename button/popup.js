@@ -125,7 +125,7 @@ $(function() {
     });
 
     $("#titletext").click(function() {
-        var chrome_url = "https://chrome.google.com/webstore/detail/changeme";
+        var chrome_url = "https://chrome.google.com/webstore/detail/nljjbcdkobohpmklgnhjalfebmmdajca";
         var opera_url = "https://github.com/dnut/adblock-pure/";
         // was https://addons.opera.com/extensions/details/adblockforopera/
         var getadblock_url = "https://github.com/dnut/adblock-pure/" // was main domain
