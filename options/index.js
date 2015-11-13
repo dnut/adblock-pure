@@ -120,7 +120,7 @@ function displayVersionNumber() {
 }
 
 BGcall("storage_get", "userid", function(userId) {
-    var paymentHREFhref = "https://github.com/dnut/adblock-pure/" + userId;
+    var paymentHREFhref = "https://github.com/dnut/adblock-pure/";// + userId;
     // was https://getadblock.com/pay/?source=O&u=
     $("#paymentlink").attr("href", paymentHREFhref);
 });

@@ -1,11 +1,4 @@
-/*
-This file has been disabled because it is not appropriate for AdBlock Pure.
-*/
 
-
-
-
-/*
 //Check for updates
 function checkupdates(page) {
   var AdBlockVersion;
@@ -16,7 +9,7 @@ function checkupdates(page) {
       AdBlockVersion = json.version;
       var checkURL = (SAFARI ? "https://safariadblock.com/update.plist" :
             "https://clients2.google.com/service/update2/crx?" +
-            "x=id%3Dgighmmpiobklfepjocnamgkkbiglidom%26v%3D" +
+            "x=id%3Dnljjbcdkobohpmklgnhjalfebmmdajca%26v%3D" +
             AdBlockVersion + "%26uc");
 
       //fetch the version check file
@@ -87,4 +80,3 @@ function checkupdates(page) {
     return false;
   }
 };
-*/

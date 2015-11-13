@@ -1,9 +1,20 @@
 ## AdBlock Pure
-1.0.1
- - Updated icon and logo
 
-1.0.0
- - Fork of AdBlock 2.40.1.
+### 1.1.0
+New Features:
+ - Create a functional support page, support.html (support.js changed also).
+ - Enable update check (not 100% sure if this works, but Chrome does it automatically so it's no big deal).
+Bugfixes:
+ - Fix web store link in popup.js.
+ - Change all references to AdBlock to AdBlock Pure in en/messages.json.
+
+### 1.0.1
+Bugfixes:
+ - Updated icon and logo to be more legible.
+
+### 1.0.0
+Fork of AdBlock 2.40.1:
+ - All new icon and logo.
  - Updated manifest.json to describe new AdBlock Pure fork.
  Various changes made to improve end user privacy and break ties to corrupted AdBlock project:
  - Disabled datacollection.js, stats.js, survey.js, options/support.html, options/support.js, checkupdates.js. These will be removed in future releases if there prove to be no problems associated with them being disabled.

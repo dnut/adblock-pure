@@ -1,14 +1,3 @@
-/*
-This file has been disabled to improve end-user privacy.
-If you are an end user and feel uncomfortable with its
-presence, feel free to delete this file. Read more about
-commenting out code in javascript to understand how this
-file has been disabled.
-*/
-
-
-/*
-
 $(document).ready(function() {
 
     // Get debug info
@@ -72,18 +61,17 @@ $(document).ready(function() {
 
     // Report us the bug
     $("#report").click(function(){
-        var result = "http://support.getadblock.com/discussion/new" +
-        "?category_id=problems&discussion[body]=" + report;
+        var result = "https://github.com/dnut/adblock-pure/issues";// +
+        // "?category_id=problems&discussion[body]=" + report;
         document.location.href = result;
     });
 
     // Show the changelog
     $("#whatsnew a").click(function() {
         var xhr = new XMLHttpRequest();
-        xhr.open("GET", chrome.extension.getURL("CHANGELOG.txt"), false);
+        xhr.open("GET", chrome.extension.getURL("CHANGELOG.md"), false);
         xhr.send();
         var object = xhr.responseText;
         $("#changes").text(object).css({width: "670px", height: "200px"}).fadeIn();
     });
 });
-*/
