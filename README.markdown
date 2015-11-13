@@ -11,6 +11,7 @@ AdBlock Pure is free and open source software, licensed under GPLv3 because it i
 AdBlock Pure is available in the Chrome Web Store: https://chrome.google.com/webstore/detail/adblock-pure/nljjbcdkobohpmklgnhjalfebmmdajca
 
 If you would rather not use the Chrome Web Store, you may install it manually:
+
 1. Download the zip here
 2. Extract it to a directory
 3. Open Chrome's extensions page: [chrome://extensions/](chrome://extensions/)
