@@ -1,4 +1,6 @@
 ## AdBlock Pure ##
+1.0.1
+ - Updated icon and logo
 
 1.0.0
  - Fork of AdBlock 2.40.1.
