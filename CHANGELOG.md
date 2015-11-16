@@ -2,9 +2,10 @@
 
 ### 1.1.0
 New Features:
+ - Totally new logo (again): raised fist!
  - Create a functional support page, support.html (support.js changed also).
  - Enable update check (not 100% sure if this works, but Chrome does it automatically so it's no big deal).
- - Added Fanboy Ultimate list.
+ - Added Fanboy Ultimate list and generally improved filter lists page.
 
 Bugfixes:
  - Fix web store link in popup.js.
