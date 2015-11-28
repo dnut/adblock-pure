@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/dnut/adblock-pure.png?label=ready&title=Ready)](https://waffle.io/dnut/adblock-pure)
 # AdBlock Pure
 
 AdBlock Pure is a new ad blocking extension for Google Chrome and Chromium.
