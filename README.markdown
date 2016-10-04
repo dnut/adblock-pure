@@ -9,9 +9,7 @@ AdBlock Pure is almost identical in functionality to AdBlock 2.40.1. The AdBlock
 
 ## Installation
 
-AdBlock Pure is available in the Chrome Web Store: https://chrome.google.com/webstore/detail/adblock-pure/nljjbcdkobohpmklgnhjalfebmmdajca
-
-If you would rather not use the Chrome Web Store, you may install it manually:
+Google is one of the participating parties in the acceptable ads scam, so they have removed AdBlock Pure from the web store. AdBlock Pure can now only be installed manually:
 
 1. Download the zip here
 2. Extract it to a directory
